@@ -15,7 +15,7 @@ export default function Page() {
             </div>
 
             <h1 className="text-pretty text-4xl md:text-6xl font-semibold tracking-tight drop-shadow-lg">
-              Unlock personalized shopping with Shoppit's AI.
+              Your Personal AI Shopper Has Arrived.
             </h1>
             <p className="mt-4 md:mt-5 text-balance text-sm md:text-base opacity-95">
               Be the first to experience a smarter way to shop. Our AI finds products you'll love, tailored just for you.
